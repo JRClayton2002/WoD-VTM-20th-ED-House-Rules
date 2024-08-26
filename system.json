@@ -2,7 +2,7 @@
   "id": "worldofdarknessjclayton",
   "title": "World of Darkness 20th edition",
   "description": "To play World of Darkness 20th ed. Support for Werewolf the Apocalypse (W20), Mage the Ascension (M20), Vampire the Masquerade (V20), Changeling the Dreaming (C20), Wraith the Oblivion (Wr20), Hunter the Reckoning (HtR) and Demon the Fallen (DtF). Portions of the materials are the copyrights and trademarks of Paradox Interactive AB, and are used with permission. All rights reserved. For more information please visit worldofdarkness.com.",
-  "version": "3.3.1",
+  "version": "1.0",
   "compatibility": {
     "minimum": "11",
     "verified": "11",
@@ -82,6 +82,6 @@
   "url": "https://github.com/JRClayton2002/WoD-VTM-20th-ED-House-Rules",
   "background": "systems/worldofdarkness/assets/img/graphics/wod.png",
   "manifest": "https://raw.githubusercontent.com/JRClayton2002/WoD-VTM-20th-ED-House-Rules/main/system.json",
-  "download": "https://github.com/JRClayton2002/WoD-VTM-20th-ED-House-Rules/releases/tag/v3.3.1",
+  "download": "https://github.com/JRClayton2002/WoD-VTM-20th-ED-House-Rules/releases/tag/v1.0",
   "license": "LICENSE.txt"
 }
