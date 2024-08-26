@@ -1,0 +1,95 @@
+.demon:not(.noSplatFont) nav,
+.demon:not(.noSplatFont) .splatFont,
+.demonDialog:not(.noSplatFont) .splatFont,
+.demonItem:not(.noSplatFont) .splatFont {
+	font-family: "demon", var(--main-font);
+}
+
+.demonDialog,
+.demon,
+.demonItem {
+  --main-full-color: var(--main-demon-color);
+  --main-mid-color: var(--main-demon-mid-color);
+  --main-dim-color: var(--main-demon-dim-color);
+  --color-shadow-primary: var(--main-demon-color);
+}
+
+.demon {
+    --sheet-background-color: var(--demon-page-background);
+}
+  
+.demon .modern {  
+    --main-wod-banner: var(--demon-banner-background);
+    --main-wod-banner-small: var(--demon-banner-small-background); 
+}
+
+.wod-sheet.demon:not(.minimized) {
+    min-height: 950px;
+}
+
+.demon:not(.noSplatFont) .sheet-headline {
+    font-size: 26px;
+}
+
+.demon.demon:not(.noSplatFont) .sheet-banner {
+    height: 40px;
+}
+
+.demon:not(.noSplatFont) .headlineTabs {
+    font-size: 26px;
+    line-height: 26px;
+}
+
+.demon:not(.noSplatFont) .headlineText {
+    font-size: 16px;
+}
+
+.demon:not(.noSplatFont) .headlineGroup {
+    font-size: 16px;
+}
+
+.demon:not(.noSplatFont) .sheet-banner .sheet-banner-text {
+    font-size: 20px;
+    position: relative;
+    top: 16px;
+}
+
+.demon.demon:not(.noSplatFont) .sheet-banner-small .sheet-banner-text {
+    font-size: 16px;
+}
+
+.demonDialog:not(.noSplatFont) .headlineGroup {
+    font-size: 26px;
+}
+
+.demonDialog:not(.noSplatFont) .headline {
+    font-size: 20px;
+}
+
+.demon:not(.noSplatFont) .experienceValue {
+    font-family: var(--main-font);
+}
+
+/* COMBAT */
+
+.demon .combat-concealBox {
+    width: 75px;
+}
+
+/* SETTINGS */
+
+.demon .secondHeadlineTabs {
+    width: 25%;
+}
+
+.demon:not(.noSplatFont) .secondHeadlineTabs {
+    font-size: 16px;
+}
+
+@media all and (max-height : 1024px)
+{
+  .wod-sheet.demon:not(.minimized) {
+    min-height: 400px;
+    height: 400px;
+  }
+}
