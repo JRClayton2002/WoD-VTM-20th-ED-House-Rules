@@ -81,7 +81,7 @@
   "primaryTokenAttribute": "traits.health.totalhealthlevels",
   "url": "https://github.com/JRClayton2002/WoD-VTM-20th-ED-House-Rules",
   "background": "systems/worldofdarkness/assets/img/graphics/wod.png",
-  "manifest": "https://raw.githubusercontent.com/JohanFalt/Foundry_WoD20/main/system.json",
-  "download": "https://github.com/JohanFalt/Foundry_WoD20/archive/refs/tags/Final-v3.3.zip",
+  "manifest": "https://raw.githubusercontent.com/JRClayton2002/WoD-VTM-20th-ED-House-Rules/main/system.json",
+  "download": "https://github.com/JRClayton2002/WoD-VTM-20th-ED-House-Rules/releases/tag/v3.3.1",
   "license": "LICENSE.txt"
 }

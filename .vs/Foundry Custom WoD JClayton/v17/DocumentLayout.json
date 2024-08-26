@@ -28,7 +28,7 @@
               "RelativeDocumentMoniker": "system.json",
               "ToolTip": "C:\\Users\\Joshua\\Downloads\\Foundry Custom WoD JClayton\\Foundry Custom WoD JClayton\\system.json",
               "RelativeToolTip": "system.json",
-              "ViewState": "AgIAADAAAAAAAAAAAAAAAFEAAABGAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFQAAABfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-08-26T21:13:12.789Z",
               "EditorCaption": ""
@@ -43,8 +43,7 @@
               "RelativeToolTip": "module\\scripts\\roll-dice.js",
               "ViewState": "AgIAAKoAAAAAAAAAAAAuwMQAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-08-26T21:12:38.717Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-26T21:12:38.717Z"
             }
           ]
         }
